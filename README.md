@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of linkrobins/wiki.** Not for installation: use [Packagist](https://packagist.org/packages/linkrobins/wiki) or the [upstream repository](https://github.com/linkrobins/flarum-wiki).
 
-**0** versions archived · Latest: [`v1.11.1`](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.11.1) · License: `MIT` · Flarum: `^2.0`
+**27** versions archived · Latest: [`v1.11.1`](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.11.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-06-22 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.0.0) |
+| `v1.1.0` | 2026-07-04 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.1.0) |
+| `v1.10.0` | 2026-10-11 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.10.0) |
+| `v1.11.0` | 2026-10-25 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.11.0) |
+| `v1.2.0` | 2026-07-05 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.2.0) |
+| `v1.2.1` | 2026-07-14 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.2.1) |
+| `v1.3.0` | 2026-07-20 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.3.0) |
+| `v1.3.1` | 2026-07-20 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.3.1) |
+| `v1.3.2` | 2026-07-20 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.3.2) |
+| `v1.4.0` | 2026-07-22 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-flarum-wiki/tree/archive/v1.4.0) |
+
+[View all 27 versions](https://github.com/flarchive/linkrobins-flarum-wiki/tags)
 
 Catalog entry: [packages/linkrobins-flarum-wiki.json](https://github.com/flarchive/archive-index/blob/main/packages/linkrobins-flarum-wiki.json)
 
